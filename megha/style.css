@@ -1,0 +1,61 @@
+.paper {
+    padding: 50px 50px;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/w.png);
+    background-size: 1190px;
+    background-position: center center;
+
+}
+.paper {
+    border: 5px solid red;
+    position: absolute;
+    background-image: url(images/1.png.jpg);
+    background-size: 100px;
+    
+}
+
+.paper.image {
+    border: 5px solid red;
+    position: absolute;
+    background-image: url(images/2.png.jpg);
+    background-size: 100px;
+   
+}
+
+.paper.icon {
+    border: 5px solid red;
+    position: absolute;
+    background-image: url(images/3.png.jpg);
+    background-size: 100px;
+    
+}
+
+.paper.union {
+    border: 5px solid red;
+    position: absolute;
+    background-image: url(images/4.png.jpg);
+    background-size: 100px;
+    
+}
+
+.paper.corn {
+    border: 5px solid red;
+    position: absolute;
+    background-image: url(images/end.png.jpg);
+    background-size: 100px;
+   
+}
+
+p{
+    font-family: 'megha';
+    font-size: 50px;
+    color: rgb(0, 0, 100);
+    opacity: 0.75;
+    user-select: none;
+
+}
